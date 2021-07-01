@@ -89,7 +89,7 @@ body{
 
  @media only screen and (max-width: 600px) {
     .rock ,.paper ,.scissors {
-         width: 48%;
+         width: 49%;
          height: fit-content;
     }
   }
