@@ -1,0 +1,19 @@
+[
+    {
+        "name": "Joe",
+        "age": 23,
+        "address": {
+            "street": 234,
+            "h.no": 12
+        }
+    },
+
+    {
+        "name": "Mary",
+        "age": 34,
+        "address": {
+            "street": 522,
+            "h.no": 2
+        }
+    }
+]
